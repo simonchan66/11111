@@ -1,14 +1,11 @@
-# NDECC Clinical: Minimum Passing Guide
+# NDECC Clinical: Minimum Passing Guide (2026)
 
-An independent English study guide covering the seven Clinical Skills requirements in the supplied NDECC Protocol effective September 30, 2024.
+Live website: https://simonchan66.github.io/11111/
 
-Includes minimum passing outcomes, exact numerical thresholds, major and critical errors, infection control and safety, and protocol page references.
+Independent English study synthesis of the supplied NDECC Protocol effective June 15, 2026. Covers all seven clinical tasks, minimum passing outcomes, exact thresholds, major and critical errors, infection control, safety and examination execution notes.
 
-This is a 2024 edition reference. NDEB lists a newer protocol effective June 15, 2026; consult official resources for your examination date. This guide is not affiliated with or endorsed by NDEB.
+Page references follow the supplied 26-page PDF. The official online copy may have different pagination. The source protocol remains the authority. No affiliation with or endorsement by NDEB.
 
-The website is a self-contained `index.html`, with responsive and print styles. No installation or build is required.
+Official resources: https://ndeb-bned.ca/resources/exam-resources/
 
-## GitHub Pages
-
-In Settings → Pages, select **Deploy from a branch**, then **main** and **/(root)**. Save. The website will appear at `https://simonchan66.github.io/11111/` after deployment.
-
+Self-contained responsive index.html with print styles. GitHub Pages publishes from main, repository root. No installation or build required.
